@@ -1,2 +1,2 @@
 # Proje
-Dosya yöneticisi, gdeb paket dosyası oluşturucu (test) 01-01-2018
+Dosya yöneticisi, gdeb paket dosya oluşturucu (test) 01-01-2018
