@@ -1,2 +1,2 @@
 # Proje
-Dosya yöneticisi, gdeb paket dosyası oluşturucu
+Dosya yöneticisi, gdeb paket dosyası oluşturucu (test)
